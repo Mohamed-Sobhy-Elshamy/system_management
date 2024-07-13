@@ -1,0 +1,28 @@
+#### send data to database
+firstName
+lastName
+email
+mobileNumber
+age
+country
+gender
+createdAt
+updatedAt
+
+
+Schema 
+req.body 
+{
+    key: "value",
+    key: "value",
+}
+====================================
+
+#### get data from database 
+انا عاوز كل ال data اللي موجودة عندي يبقا استخدم find
+
+ال data اللي بحصل عليها من DS => عبارة عن array جواها objects
+
+
+
+
